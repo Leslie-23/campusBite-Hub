@@ -5,7 +5,7 @@
 ### Technical Stack Selection
 
 - **Frontend**: React Native (for cross-platform support)
-  - UI Framework: React Native Paper or Native Base
+  - UI Framework: React Native Paper or Native Base (Still considering React Only)
   - State Management: Redux Toolkit (simpler than plain Redux)
   - Navigation: React Navigation 6
 - **Backend**: Node.js + Express
