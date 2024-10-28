@@ -10,10 +10,10 @@ Initial Setup:
 Set up GitHub/GitLab for version control.
 Set up cloud environments (Firebase, AWS, or Heroku).
 Configure the Spoonacular API and manage necessary API keys.
-Phase 2: Core Backend & Database Setup (Weeks 5-8)
-Backend Foundation:
+Phase 2: Core server & Database Setup (Weeks 5-8)
+server Foundation:
 
-Develop the core backend with Node.js and Express.
+Develop the core server with Node.js and Express.
 Implement user authentication (Firebase Auth or Auth0) to manage accounts.
 Database Schema:
 
@@ -41,15 +41,15 @@ UI for Core Features:
 Build UI screens for the recipe finder, grocery list, and health tracking.
 Implement navigation between screens using React Navigation.
 Set up Redux (or Context API) for state management to store user sessions, preferences, and recipe data.
-Integrate Backend API:
+Integrate server API:
 
-Connect frontend components to the backend API for real-time data.
+Connect frontend components to the server API for real-time data.
 Implement error handling and validation on user inputs for recipes, nutrition, and grocery lists.
 Phase 5: Social & Community Features (Weeks 25-28)
 Social Feed & Sharing:
 
 Develop the social feed for users to post photos, comments, and recipe tips.
-Implement a basic like/comment system and a backend for handling interactions.
+Implement a basic like/comment system and a server for handling interactions.
 Challenges & Badges:
 
 Build a challenges feature where users can participate in or create meal-prep challenges.
@@ -70,7 +70,7 @@ Add notification for budget limit warnings and suggestions for cost-friendly rec
 Phase 7: Testing & Optimization (Weeks 37-40)
 Testing:
 
-Conduct unit testing on both backend and frontend.
+Conduct unit testing on both server and frontend.
 Perform integration testing for key flows: recipe search, grocery list generation, and social interactions.
 Optimization:
 
@@ -83,7 +83,7 @@ Conduct a closed beta with selected users or a small group for feedback.
 Collect and analyze feedback, and make final adjustments.
 Deployment:
 
-Deploy backend to production environment.
+Deploy server to production environment.
 Publish the app on the App Store and Google Play.
 Phase 9: Post-Launch and Enhancements (Post-Launch)
 User Feedback Collection:
