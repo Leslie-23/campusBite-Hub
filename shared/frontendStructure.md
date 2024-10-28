@@ -34,7 +34,7 @@
 │ │ │ ├── Social # Social interaction pages
 │ │ │ ├── Profile # Profile and user settings pages
 │ │ ├── routes # Route configurations
-│ │ ├── services # API services to interact with backend
+│ │ ├── services # API services to interact with server
 │ │ └── App.js # Main app entry
 │ └── package.json # Dependencies and scripts
 
